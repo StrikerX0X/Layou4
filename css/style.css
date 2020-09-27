@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body{
+    border-color: black;
+    border-style: solid;
+    margin: 2px;
+}
+header{
+    height: 50px;
+    background-color: cornsilk;
+    border-color:black;
+    border-style: solid;
+    margin: 4px;
+}
+section{
+    height: 530px;
+    background-color: white;
+    margin: 10px;
+    border-style: solid;
+    border-color: black;
+}
+.top{
+    height: 10%;
+    background-color: cornsilk;
+    margin: 4px;
+    border-style: solid;
+    border-color: black;
+    
+}
+.bottom{
+    height: 85%;
+    background-color: cornsilk;
+    margin: 2px;
+    border-style: solid;
+    border-color: black;
+    overflow: hidden;
+}
+.left{
+    margin: 5px;
+    width: 15%;
+    height: 95%;
+    float: left;
+}.right{
+    margin: 5px;
+    width: 82%;
+    height: 95%;
+    float: right;
+}
+.tree1{
+    height: 38%;
+    border-style: solid;
+    border-color: black;
+    width: 98%;
+    margin: 0px 0px 4px 0px;
+}
+.tree2{
+    height: 58%;
+    border-style: solid;
+    border-color: black;
+    margin: 4px 0px 0px 0px;
+}
+.right-top{
+    height: 75%;
+    border-style: solid;
+    border-color: black;
+}
+.left-top{
+    height: 20%;
+    margin-top: 7px;
+    overflow: hidden;
+}
+.area2{
+    width: 65%;
+    border-style: solid;
+    border-color: black;
+    height: 93%;
+    float: left;
+}.area3{
+    width: 33%;
+    border-style: solid;
+    border-color: black;
+    height: 93%;
+    float: right;
+}
+.area2 h1{
+    padding-top: 25px;
+}.area3 h1{
+    padding-top: 25px;
+}
+.tree1 h1{
+    padding-top: 70px;
+}.tree2 h1{
+    padding-top: 110px;
+}
+.right-top h1{
+    padding: 150px;
+}
+.top h1{
+    padding-top: 11px;
+}
+header h1{
+    padding-top: 4px;
+}
